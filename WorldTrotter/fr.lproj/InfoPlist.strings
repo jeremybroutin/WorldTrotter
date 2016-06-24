@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  WorldTrotter
+
+  Created by Jeremy Broutin on 6/24/16.
+  Copyright © 2016 Jeremy Broutin. All rights reserved.
+*/
+
+NSLocationAlwaysUsageDescription = "Permettre à l'application d'accéder à votre localisation pour recentrer la carte.";

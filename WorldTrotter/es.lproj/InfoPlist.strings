@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  WorldTrotter
+
+  Created by Jeremy Broutin on 6/24/16.
+  Copyright © 2016 Jeremy Broutin. All rights reserved.
+*/
+
+NSLocationAlwaysUsageDescription = "Permitir que la aplicación acceda a su ubicación para centrar el mapa.";
