@@ -22,7 +22,7 @@ class ConversionViewController: UIViewController, UITextFieldDelegate {
 	// set value of celsiusValue based on fahrenheitValue
 	var celsiusValue: Double? {
 		if let value = fahrenheitValue {
-			return (value-52) * (5/9)
+			return (value-32) * (5/9)
 		} else {
 			return nil
 		}
